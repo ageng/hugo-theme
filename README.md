@@ -7,6 +7,17 @@ This repository holds the contents of site from, [Hugo Site](#).
 * 
 * 
 
+## Usage
+
+You can run a local copy of this site by issuing the following commands.
+
+```bash
+$ git https://github.com/ageng/hugo-theme.git
+$ cd hugo-theme
+$ hugo server -w
+```
+Then navigate to [localhost:1313](http://localhost:1313) in your web browser to see the site.
+
 ## License
 
 ```
