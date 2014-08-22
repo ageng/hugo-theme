@@ -1,43 +1,19 @@
 ---
 draft: false
-title: "Testing Kak"
-description: "Handsome Person!"
+title: "Mencoba Move ON!"
+description: "Semoga bisa tercapai :3"
 date: "2014-08-22"
 categories:
   - "development"
 tags:
+  - "myself"
   - "testing"
-  - "hugo"
 ---
-![Alt text](http://i.imgur.com/OAlenon.jpg "Optional title")
-## Lorem Ipsum
+![Alt text](http://i.imgur.com/CA2cqL5.jpg "Tehe :p")
+## Bweee
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Oke setelah sekian lama akhirnya aku putuskan untuk "~~Move ON.~~"
 
-## About
+> kawkakwakwawk
 
-* [Testing](http://google.com/)
-* [Hugo](http://hugo.spf13.com)
-
-## License
-
-```
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-          Version 2, December 2004
-
-Copyright (C) 2012 Romain Lespinasse <romain.lespinasse@gmail.com>
-
-Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document, and changing it is allowed as long
-as the name is changed.
-
-  DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-0. You just DO WHAT THE FUCK YOU WANT TO.
-```
+:no_good:
