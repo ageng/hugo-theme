@@ -1,0 +1,16 @@
+title = "Log Newbiemasih"
+languageCode = "en-US"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = "false"
+cannonifyurls = "false"
+baseurl = "http://beta.fagsubs.pw"
+MetaDataFormat = "toml"
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+  
+[author]
+  name = "newbiemasih"
