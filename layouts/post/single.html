@@ -22,9 +22,9 @@
               </div>
             <div class="panel-body">
                 <h4><i class="fa fa-calendar"></i> {{ .Date.Format "2 - Jan - 2006" }}<br>
-                <small>{{ .WordCount }} words</small></h4>
+                <small>{{ .WordCount }} kalimat</small></h4>
                 <hr>
-                <strong>Categories : </strong>
+                <strong>Kategori : </strong>
                 <ul class="list-unstyled">
                 {{ range .Params.categories }}
                     <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>

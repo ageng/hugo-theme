@@ -21,19 +21,23 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## About
 
-* [Testing]()
-* Hugo
+* [Testing](http://google.com/)
+* [Hugo](http://hugo.spf13.com)
 
 ## License
 
 ```
-draft: false
-title: "Blogging again"
-description: "Reviving tehbilly.com as a hugo-powered blog"
-date: "2014-04-08"
-categories:
-  - "development"
-tags:
-  - "golang"
-  - "hugo"
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+          Version 2, December 2004
+
+Copyright (C) 2012 Romain Lespinasse <romain.lespinasse@gmail.com>
+
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
+
+  DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+0. You just DO WHAT THE FUCK YOU WANT TO.
 ```
