@@ -5,7 +5,7 @@ layoutdir = "layouts"
 publishdir = "public"
 builddrafts = "false"
 cannonifyurls = "false"
-baseurl = "http://beta.fagsubs.pw"
+baseurl = "http://blog.fagsubs.pw"
 MetaDataFormat = "toml"
 disqusShortname = "c86fagsubs"
 
