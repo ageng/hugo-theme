@@ -1,0 +1,20 @@
+{{ template "chrome/header.html" . }}
+<body>
+{{ template "chrome/navbar.html" . }}
+<div class="container">
+    <div class="row">
+        <div class="col-md-9">
+         <ul class="posts">
+            {{ range .Data.Pages }} <hr>
+            <li><span><a href="{{ .Permalink }}"><i class="fa fa-file-text"></i> {{ .Title }}</a><time class="pull-right post-list">{{ .Date.Format "2 - Jan - 2006" }}</h4></time></span></span></li>
+            {{ end }} <hr>
+         </ul>
+        </div>
+        <!-- Sidebar -->
+        <div class="col-md-3">
+        {{ template "chrome/menu.html" . }}
+        </div>
+    </div>
+{{ template "chrome/footer.copyright.html" . }}
+</div>
+{{ template "chrome/footer.html" . }}
