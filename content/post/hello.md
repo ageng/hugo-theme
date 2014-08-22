@@ -9,7 +9,7 @@ tags:
   - "testing"
   - "hugo"
 ---
-
+![Alt text](http://i.imgur.com/OAlenon.jpg "Optional title")
 ## Lorem Ipsum
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
