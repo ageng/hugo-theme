@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Testing on Log Newbiemasih </title>
+    <link>http://blog.fagsubs.pw/tags/testing/index.xml</link>
+    <language>en-US</language>
+    <author>William McGann</author>
+    <rights>Copyright (c) 2014, William McGann; all rights reserved.</rights>
+    <updated>Fri, 22 Aug 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Testing Kak</title>
+      <link>http://blog.fagsubs.pw/post/hello</link>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 UTC</pubDate>
+      <author>William McGann</author>
+      <guid>http://blog.fagsubs.pw/post/hello</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/OAlenon.jpg&#34; alt=&#34;Alt text&#34; title=&#34;Optional title&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Lorem Ipsum&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;About&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://google.com/&#34;&gt;Testing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hugo.spf13.com&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;License&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+          Version 2, December 2004
+
+Copyright (C) 2012 Romain Lespinasse &amp;lt;romain.lespinasse@gmail.com&amp;gt;
+
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
+
+  DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+0. You just DO WHAT THE FUCK YOU WANT TO.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
