@@ -1,11 +1,13 @@
 # Source from Hugo Based Site
 
-This repository holds the contents of site from, [Hugo Site](#).
+This repository holds the contents of site from, [Hugo Site](http://hugo.spf13.com/).
 
 ## Dependencies
 
-* 
-* 
+* [Hugo](http://hugo.spf13.com/)
+* [Twitter Bootstrap](http://getbootstrap.com/)
+* [Font Awesome](http://fontawesome.io/)
+* [Bootswatch](http://bootswatch.com/)
 
 ## Usage
 
