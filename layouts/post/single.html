@@ -11,11 +11,8 @@
                     <hr>
             </div>
             {{ template "chrome/details.html" . }}
-            <div id="disqus_thread"></div>
-            <div id="disqus_loader" class="button">
-              <button type="button" class="btn btn-danger" onclick='$.ajaxSetup({cache:true});$.getScript("https://c86fagsubs.disqus.com/embed.js");$.ajaxSetup({cache:false});
-              $("#disqus_loader").toggle();'>Lihat Komentar</button>
-            </div>
+            {{ template "chrome/disqus.html" . }}
+
         </div>
 
         <!-- Sidebar -->
@@ -44,4 +41,6 @@
     </div>
 {{ template "chrome/footer.copyright.html" . }}
 </div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-535e539e54531802"></script>
 {{ template "chrome/footer.html" . }}
