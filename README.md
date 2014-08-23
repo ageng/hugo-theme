@@ -1,6 +1,6 @@
 # Source from Hugo Based Site
 
-This repository holds the contents of site from, [Hugo Site](http://hugo.spf13.com/).
+This repository holds the contents of site from, [my blog](http://blog.fagsubs.pw/).
 
 ## Dependencies
 
