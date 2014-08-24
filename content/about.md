@@ -1,6 +1,6 @@
 ---
 date = "2014-08-24T08:39:03+07:00"
-draft = false
+draft = true
 title = "Tentang Saya"
 
 ---
