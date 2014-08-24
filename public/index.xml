@@ -36,44 +36,5 @@ Silahkan &lt;del&gt;dilihat, direnungi dan diresapi&lt;/del&gt;. Hahahaha&lt;/p&
 </description>
     </item>
     
-    <item>
-      <title></title>
-      <link>http://blog.fagsubs.pw/about</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      <author>William McGann</author>
-      <guid>http://blog.fagsubs.pw/about</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://&#34; alt=&#34;Alt Text&#34; title=&#34;About Me&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Perkenalkan, nama saya &lt;del&gt;rahasia&lt;/del&gt;. Suka nonton anime dan baca manga,
-terkadang juga suka ngetik beberapa code , misalnya :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;HTML&lt;/li&gt;
-&lt;li&gt;CSS / LESS / SASS&lt;/li&gt;
-&lt;li&gt;Javascript (jQuery/AngularJS)&lt;/li&gt;
-&lt;li&gt;PHP&lt;/li&gt;
-&lt;li&gt;NodeJS&lt;/li&gt;
-&lt;li&gt;Ruby (Ruby on Rails / Sinatra)&lt;/li&gt;
-&lt;li&gt;Python (flask)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Juga suka sekali dengan yang namanya:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Git (Github/Bitbucket)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Setup environment buat develop pakai :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;vagrant (Chef + puppet)&lt;/li&gt;
-&lt;li&gt;docker (puppet)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Juga seorang penggemar Open Source.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
