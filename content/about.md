@@ -1,7 +1,7 @@
 +++
-date = "2014-08-24T08:39:03+07:00"
+date = "2014-08-24T09:20:12+07:00"
 draft = true
-title = "Tentang Saya"
+title = "About Me"
 
 +++
 
