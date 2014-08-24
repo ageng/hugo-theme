@@ -1,9 +1,9 @@
-+++
+---
 date = "2014-08-24T08:39:03+07:00"
-draft = true
+draft = false
 title = "Tentang Saya"
 
-+++
+---
 
 ![Alt Text](http://"About Me")
 
