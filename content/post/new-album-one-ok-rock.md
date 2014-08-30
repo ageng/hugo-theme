@@ -22,7 +22,7 @@ Isi tracklistnya :
 2. Decision
 3. Pieces of Me 
 
-ini link donwloadnya 
+ini link download 
 
 > [Direct Link](http://goo.gl/yHxERp)
 
