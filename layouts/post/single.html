@@ -23,17 +23,17 @@
                   <h4>Info</h4>
               </div>
             <div class="panel-body">
-                <h4><i class="fa fa-calendar"></i> {{ .Date.Format "2 - Jan - 2006" }}<br>
-                <small>{{ .WordCount }} kalimat</small></h4>
+                <strong><i class="fa fa-calendar"></i> {{ .Date.Format "2 - Jan - 2006" }}</strong><br>
+                <small>Total ada {{ .WordCount }} kalimat</small>
                 <hr>
-                <strong>Kategori : </strong>
+                <strong><i class="fa fa-bolt"></i> Kategori </strong>
                 <ul class="list-unstyled">
                 {{ range .Params.categories }}
                     <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
                 {{ end }}
                 </ul>
                 <hr>
-                <strong>Tags : </strong><br>
+                <strong><i class="fa fa-tags"></i> Tags </strong><br>
                 {{ range .Params.tags }}<a class="label label-default" href="/tags/{{ . | urlize }}">{{ . }}</a> {{ end }}
             </div>
         </div>
