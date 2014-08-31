@@ -28,5 +28,66 @@
 </description>
     </item>
     
+    <item>
+      <title>Dia itu bernama ...</title>
+      <link>http://blog.fagsubs.pw/post/dia-itu-bernama-1</link>
+      <pubDate>Sun, 31 Aug 2014 00:00:00 UTC</pubDate>
+      <author>William McGann</author>
+      <guid>http://blog.fagsubs.pw/post/dia-itu-bernama-1</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/CD1mb6j.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Intro&lt;/h1&gt;
+
+&lt;p&gt;Dia itu bernama&amp;hellip; ya dia itu bernama Go (Go Programming atau Golang) bahasa pemograman yang diciptakan oleh Google. Bahasa pemrograman ini mirip seperti C (mohon dikoreksi). Go sendiri sudah kembangkan sejak tahun 2007 dan diperkenalkan ke publik tahun 2009 (dikutip dari Wikipedia).&lt;/p&gt;
+
+&lt;p&gt;Sebenarnya sih saya ingin memberikan tutorial &lt;a href=&#34;http://golang.org/doc/install/source&#34;&gt;installasi Go&lt;/a&gt; di Ubuntu, ya walaupun sudah banyak yang membuat artikel tersebut , tapi menurut saya lebih baik terlambat daripada tidak sama sekali. Saya menggunakan Ubuntu x86_64 (64 bit) jadi sesuaikan dengan OS yang Anda pakai. Silahkan masuk ke halaman &lt;a href=&#34;http://golang.org/dl/&#34;&gt;ini&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ wget http://wordpress.org/latest.tar.gz -O - | tar -xz
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Masuk ke direktori src dan silahkan &lt;em&gt;compile&lt;/em&gt; (lihat perintah di bawah ini)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd go/src
+$ ./all.bash
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Proses &lt;em&gt;compile&lt;/em&gt; tidak terlalu lama , lebih baik ditunggu. Jika nanti muncul pesan seperti di bawah ini berarti proses &lt;em&gt;compile&lt;/em&gt; sudah berhasil.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;ALL TESTS PASSED
+
+---
+Installed Go for linux/amd64 in /home/you/go.
+Installed commands in /home/you/go/bin.
+*** You need to add /home/you/go/bin to your $PATH. ***
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1 id=&#34;toc_1&#34;&gt;Setting $GOROOT dan $GOPATH&lt;/h1&gt;
+
+&lt;p&gt;GOROOT itu seperti root (inti) dari Go itu sendiri (kompilasi dll).&lt;/p&gt;
+
+&lt;p&gt;GOPATH itu tempat untuk bekerja , jadi ketika kita menginstall paket dari go maka akan diletakkan di GOPATH.&lt;/p&gt;
+
+&lt;p&gt;saya asumsikan Anda melakukan installasi Go di ~/go atau /home/Anda/go. Untuk path saya letakkan di ~/go/path atau /home/Anda/go/path. Silahkan sesuaikan dengan keinginan Anda. Kemudian tambahkan kode berikut di .bashrc dan jangan lupa di reload .bashrc.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;export GOROOT=$HOME/go
+export PATH=$PATH:$GOROOT/bin
+export GOPATH=$GOROOT/path
+
+$ source .bashrc
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Untuk melakukan pengecekan silahkan gunakan perintah di bawah ini&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ go version
+go version go1.3.1 linux/amd64
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Selesai tunggu artikel berikutnya :v&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
