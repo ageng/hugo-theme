@@ -6,7 +6,48 @@
     <language>en-US</language>
     <author>William McGann</author>
     <rights>Copyright (c) 2014, William McGann; all rights reserved.</rights>
-    <updated>Wed, 03 Sep 2014 00:00:00 UTC</updated>
+    <updated>Thu, 04 Sep 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Bersamanya Aku Pasti ...</title>
+      <link>http://blog.fagsubs.pw/post/bersamanya-aku-pasti-lebih-baik</link>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 UTC</pubDate>
+      <author>William McGann</author>
+      <guid>http://blog.fagsubs.pw/post/bersamanya-aku-pasti-lebih-baik</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Berkenal dengan Vagrant! - Bagian I&lt;/h2&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&#34;http://i.imgur.com/9xWmn1L.png&#34; alt=&#34;&#34; title=&#34;Vagrant&#34; /&gt;
+
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Wut, apa lagi ini :v &amp;hellip; kawkakwakw &amp;hellip; Yap vagrant , ane sudah mengenal lebih kurang beberapa tahun belakang ini. Vagrant menurut yang saya kutip dari &lt;a href=&#34;https://docs.vagrantup.com/v2/why-vagrant/&#34;&gt;sini&lt;/a&gt; adalah  sebuah program yang memanfaatkan teknologi Mesin Virtual (VirtualBOX, VMWare, AWS dll) yang memungkinkan kita untuk membuat lingkungan development software secara portable, mudah di duplikasi, konsisten, sehingga proses pengembangan lebih fleksibel. Vagrant ini sendiri merupakan Open-Source software bisa di lihat di &lt;a href=&#34;https://github.com/mitchellh/vagrant&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Keuntungan menggunakan Vagrant&lt;/h2&gt;
+
+&lt;p&gt;Well bicara keuntungan , menurut saya banyak juga untungnya menggunakan vagrant ketika membuat suastu sistem (web development).&lt;/p&gt;
+
+&lt;p&gt;Karena proyek kita dijalankan dalam lingkungan virtual yang sama persis atau identik dengan lingkungan saat kita melakukkan development, ini artinya apapun sistem operasi teman atau anggota tim kita, asalkan mereka memiliki VM dan Vagrant terinstall, maka proyek bisa jalan dengan baik.&lt;/p&gt;
+
+&lt;p&gt;Bahkan untuk designer yang tidak mengetahui cara menghidupkan server misalnya, hanya dengan satu buah command, maka mesin virtual akan hidup dan projek kita langsung aktif di dalamnya.&lt;/p&gt;
+
+&lt;p&gt;Karena sifatnya yang portable, ini artinya lingkungan virtual proyek yang kita kerjakan dengan mudah di transfer atau di copy ke PC/laptop lain dengan catatan sudah terinstal VM dan Vagrant juga disana. Dan ketika dijalankan maka hasilnya akan sama.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Cara Kerja Vagrant&lt;/h2&gt;
+
+&lt;p&gt;Dibalik semua keuntungan yang bisa kita peroleh menggunakkan Vagrant, pada dasarnya prinsip kerjanya cukup sederhana.&lt;/p&gt;
+
+&lt;p&gt;Hal pertama yang dilakukan adalah memilih Sistem Operasi, OS apa yang akan kita pasang di VM tersebut, misalkan kita pakai Ubuntu server. Ini juga menyangkut konsistensi, misalkan aplikasi web kita nantinya akan di hosting pada Ubuntu server, maka sekalian kita developnya di Ubuntu server juga. Bisa dilihat &lt;a href=&#34;http://www.vagrantbox.es/&#34;&gt;daftar&lt;/a&gt; OS apa saja yang ada.&lt;/p&gt;
+
+&lt;p&gt;Vagrant bekerja memanfaatkan Mesin Virtual  (misalnya VirtualBox atau VMWare), melalui vagrant kita bisa mengaktifkan VM tersebut, dan setelah mesin tersebut aktif kita bisa perintahkan Vagrant untuk menginstall semua program-program pendukung untuk menjalankan projek dengan sempurna dan menyimpan semua konfigurasi VM melalui Vagrant.&lt;/p&gt;
+
+&lt;p&gt;Ketika akan di duplikasi dan didistribusikan ke anggota team, apapun OS yang mereka gunakan untuk bekerja, maka ketika diaktifkan dengan Vagrant maka VM akan menjalankan Ubuntu server juga, dengan segala konfigurasi yang sama seperti kita set sebelumnya.&lt;/p&gt;
+
+&lt;p&gt;Well sampai di sini dulu , sampai berjumpa di postingan yang lain :p&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tanpa Dia Akupun Bisa</title>
