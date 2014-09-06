@@ -1,4 +1,4 @@
-# Source from Hugo Based Site
+# Source from Hugo Based Site For My Blog
 
 This repository holds the contents of site from, [my blog](http://blog.fagsubs.pw/).
 
